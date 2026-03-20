@@ -48,3 +48,14 @@ chmod +x dataflow.py
 - **Configuration management** — convert config formats
 
 Simple. Fast. Works.
+
+## Purchase
+
+DataFlow is available for **$29** at https://automatedaction.github.io/tools/
+
+**Payment options:**
+- Bitcoin: `1A4bc19700a957315ef8934cd91aa516682`
+- Ethereum: `0xd6474722f01671f0e40a60f153f3b7740fc802a6`
+- GitHub Sponsors: https://github.com/sponsors/automatedaction
+
+After payment, email `compute.vfx@gmail.com` with your transaction hash to receive the official release.
